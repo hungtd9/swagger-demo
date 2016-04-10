@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SBT: org.scalatra:scalatra-auth_2.11:2.3.0.RC3:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.scalatra/scalatra-auth_2.11/jars/scalatra-auth_2.11-2.3.0.RC3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.scalatra/scalatra-auth_2.11/srcs/scalatra-auth_2.11-2.3.0.RC3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
